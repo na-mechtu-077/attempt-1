@@ -9,6 +9,7 @@
 ```json
 {"role": "system", "content": "Ты — полезный ассистент."}
 {"role": "user", "content": "Привет!"}
+```
 
 ## Инструкции (Instructions)
 
