@@ -6,8 +6,10 @@
 
 ## .env файл
 
+```
 OPENAI_API_KEY=sk-...
 OPENAI_ORG_ID=org-...
+```
 
 ## Загрузка в Python
 ```bash
